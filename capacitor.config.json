@@ -1,0 +1,13 @@
+{
+  "appId": "com.aerolog.app",
+  "appName": "AeroLog",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "allowNavigation": ["*"]
+  },
+  "ios": {
+    "contentInset": "always",
+    "backgroundColor": "#040405"
+  }
+}

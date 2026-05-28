@@ -1,0 +1,19 @@
+{
+  "name": "aerolog",
+  "version": "1.0.0",
+  "description": "AeroLog - Pilot Flight Logbook",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "cap:add:ios": "npx cap add ios",
+    "cap:sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@capacitor/core": "^5.7.0",
+    "@capacitor/ios": "^5.7.0",
+    "@capacitor/cli": "^5.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
